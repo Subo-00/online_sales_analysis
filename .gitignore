@@ -1,1 +1,5 @@
-"screenshots" 
+config.json
+*.png
+*.jpg
+screenshots
+.idea/
